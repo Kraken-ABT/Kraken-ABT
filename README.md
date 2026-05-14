@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👨‍💻 Обо мне
 
-<!--
-**Kraken-ABT/Kraken-ABT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Разработчик на **Python** и прочих языках. Специализируюсь на создании:
 
-Here are some ideas to get you started:
+- 🤖 Telegram-ботов
+- 🔍 Сканирующих программ
+- 🖥 Веб-панелей управления
+- 🛡 Систем автоматического мониторинга
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Автор проекта **[ECD Logger](https://github.com/Kraken-ABT/ecd-logger)** – инструмента для сбора и анализа античит-отчётов Easy Cheat Detector с интеграцией GameCMS, Telegram и VK.
+
+<p align="center">
+![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)</p>
