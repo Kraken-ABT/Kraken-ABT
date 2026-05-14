@@ -9,4 +9,4 @@
 
 Автор проекта **[ECD Logger](https://github.com/Kraken-ABT/ecd-logger)** – инструмента для сбора и анализа античит-отчётов Easy Cheat Detector с интеграцией GameCMS, Telegram и VK.
 
-![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=Kraken-ABT&abbreviated=true)
